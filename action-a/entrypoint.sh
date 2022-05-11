@@ -1,3 +1,3 @@
 #! /bin/sh -l
 
-sh -c " echo Olá mundo meu nome é $INPUT_MY_NAME "
+sh -c " echo Olá mundo meu snome é $INPUT_MY_NAME "
